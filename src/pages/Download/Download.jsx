@@ -24,7 +24,7 @@ const Download = () => {
         <div className='main_content'>
             <p className='page_head'>DOWNLOADABLE PC VERSION</p>
             <div className='download_btns_container'>
-                <a href="https://worldwar0x.io/patchsystem/ww0x01patchl1.zip">
+                <a href="https://worldwar0x.io/patchsystem/ww0xLauncher.zip">
                     <button className='white_btn'>
                         <img src={Windows} alt="windows_icon" />
                         <p>WINDOWS DOWNLOAD</p>
